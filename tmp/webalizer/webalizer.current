@@ -1,0 +1,539 @@
+# Webalizer V2.23-08 Incremental Data - 12/05/2024 10:25:11
+2024 12 5 10 25 11
+301 120 52 54 7 57 136259 56 42 0
+11 61 66 2 5
+0 0 0 0 0 0
+20 20 1510 9 0 0
+56 28 2484 19 21 18
+77 40 47757 18 25 16
+148 32 84508 11 10 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+8 1 2493 2
+15 11 84403 2
+27 7 3941 14
+2 1 0 1
+6 6 384 0
+2 1 0 1
+4 2 0 2
+8 7 384 1
+70 11 0 6
+63 10 5 2
+14 9 483 4
+6 3 120 2
+0 0 0 0
+6 5 256 1
+3 1 0 1
+8 4 20080 5
+6 5 256 1
+12 2 1351 3
+20 17 21207 4
+8 7 384 1
+5 3 128 2
+2 1 0 1
+6 6 384 0
+0
+0
+0
+120
+0
+0
+0
+0
+0
+0
+0
+114
+0
+0
+0
+0
+0
+1
+0
+0
+2
+64
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/6SZKHDN98W-ZGEDNOC_29G57CXVM44F-
+0 1 7526769998777118817 64 0 0
+/.well-known/acme-challenge/KKLD0TCHBPVU1VZYR9SV5BBV336A5F3K
+0 1 0 64 0 0
+/.well-known/acme-challenge/ULDYTFW9C1NI03DUCRF1H3Q1WV010NNR
+0 1 0 64 0 0
+/terms-conditions/
+0 2 0 39931 0 1
+/.well-known/acme-challenge/C3VZVILJ76YIL08WJD-YQ6FUSATNLXMZ
+0 1 0 64 0 0
+/.well-known/acme-challenge/-WLSRY_EE616733K57XYYC1XJQ2XSNJD
+0 1 0 64 0 0
+/.well-known/acme-challenge/USVML-B0P38AD82PBSK8ONCVA2L7W6ZH
+0 1 7598263559141221234 64 0 0
+/.well-known/acme-challenge/Z4TSRN6VN0X3JK2PL2UT4-L50RSAQPX0
+0 1 0 64 0 0
+/.well-known/acme-challenge/UO6Q0JI6LGFJYPIXXIWFGKFEX1Y2DU_B
+0 1 0 64 0 0
+/.well-known/acme-challenge/853XQT5PD6RYZ1JHOYA34LOYN72G1C0T
+0 1 0 64 0 0
+/.well-known/acme-challenge/0XDTZDJKUQ5MU1DXTAKOKYVJ_6SFP3F-
+0 1 0 64 0 0
+/.well-known/acme-challenge/91E1TAE5-71SFD2GVTKCS2N-2GIYULPC
+0 1 0 64 0 0
+/.well-known/acme-challenge/U3V918JL1JB7I_8ZMG_XEZTSCN8H5MKB
+0 1 0 64 0 0
+/.well-known/acme-challenge/O64AU051S5G-VZ4NCN8CY2SCHNVDY-3D
+0 1 0 64 0 0
+/.well-known/acme-challenge/lFhGnca8icm3oZcEGD2ulp9I3XVvZszd0Y0vL1-YzJ0
+0 5 0 435 0 0
+/.well-known/acme-challenge/A11_Y4GJO_-3LMBZ9HAVUPBAZGTM4Z09
+0 1 0 64 0 0
+/.well-known/acme-challenge/Z7VYA50H4QP3QGBTA3-1ZD2-KHPMSWTR
+0 1 0 64 0 0
+/.well-known/acme-challenge/2MV56JLJ8WVMS_CG57HNUQWVCEBHIRX1
+0 1 0 64 0 0
+/.well-known/acme-challenge/DBKD-8Y3ZNWLQYH8JQ6TU3A9LNFN50VS
+0 1 0 64 0 0
+/.well-known/acme-challenge/NSBO1BEFX_A1EW-HHBXZN3RQ15V8_K4Q
+0 1 0 64 0 0
+/.well-known/acme-challenge/3N7DSYHM-TC-O7KKPCQ0NJM-07X6-2U5
+0 1 0 64 0 0
+/.well-known/acme-challenge/JJUXDGER6J6_0FEGS433_AUPYL7L28JW
+0 1 0 64 0 0
+/.well-known/acme-challenge/3C-ZRRMM7_3HV65U4HWN_3EUOCN3PVY3
+0 1 0 64 0 0
+/.well-known/acme-challenge/CQZ3ZIZUQTDE3JW8DIRQO4SAI9WGPHSB
+0 1 0 64 0 0
+/.well-known/acme-challenge/0CJCU0AG3BJFMJZLH2ACR22NTP59AKJ8
+0 1 0 64 0 0
+/.well-known/acme-challenge/5ASDVHD3YTOL-UVQHT5ZLFN-WMF55HZ5
+0 1 0 64 0 0
+/.well-known/acme-challenge/0NS_FJVHO9T7W88X6FYD1R37KAHQOERY
+0 1 0 64 0 0
+/.well-known/acme-challenge/6Z93SA0P2T8S0ZAVQIV7UWS8HE1QBEJH
+0 1 0 64 0 0
+/.well-known/acme-challenge/7PU9JILM3JUOJVEENN69SB1CHB5LTWPA
+0 1 0 64 0 0
+/.well-known/acme-challenge/F8WXI4DY75XS-UXYXVYFQL2MTGP6MY99
+0 1 1124509746455448832 64 0 0
+/.well-known/acme-challenge/R_VQ52VZ9UFFTXYFR0LL0_7Z606Z2--N
+0 1 0 64 0 0
+/.well-known/acme-challenge/-XTKVQF6LXJ-AT5PA1A_L2__1A7TOH96
+0 1 0 64 0 0
+/.well-known/acme-challenge/EFHNXTB_MSGV921VBA9J3T8D_LC1PHWY
+0 1 0 64 0 0
+/.well-known/acme-challenge/AXBA9NFM1RKYS3X79RKZL1B13CVLP4TF
+0 1 0 64 0 0
+/.well-known/acme-challenge/U1WT8VTWTOB0R0-T_-T0EKDWDIASZZ2U
+0 1 0 64 0 0
+/.well-known/acme-challenge/IUGNDISNXQDNFPGNPWWHDT5J5IC1VZM4
+0 1 0 64 0 0
+/.well-known/acme-challenge/3US6-Q2Z2-811ISEUMLJ98QTJED4HDQZ
+0 1 0 64 0 0
+/wp-includes/js/jquery/jquery.js
+0 1 93902595546464 83899 0 0
+/.well-known/acme-challenge/_OD8D6DHCDXATS-FSUEBFVS0X0OYBM6R
+0 1 0 64 0 0
+/.well-known/acme-challenge/bnGqv9ycWLRA2w07gviuanvd6k4P5S6htRfDgiIYzcM
+0 5 0 435 0 0
+/.well-known/acme-challenge/KC44DSB9Q3M_QQEA5LH9OACC5-J86A7J
+0 1 0 64 0 0
+/.well-known/acme-challenge/WQRCR6M56J_55TABGYOF42VAU6Z07BSG
+0 1 0 64 0 0
+/.well-known/acme-challenge/TCHDUEE5HJK2ZAKH8GC-Q03KCU_YU911
+0 1 0 64 0 0
+/.well-known/acme-challenge/FGV0Y30ICX0SBFLGA_T7AZAPV5L7LZK2
+0 1 0 64 0 0
+/.well-known/acme-challenge/EFWUOQNZGJ_I1UJ9MPZBMW-VFKQ2L6IB
+0 1 0 64 0 0
+/.well-known/acme-challenge/QF-80YT-XAI_J96IXRA_S8DIGZ5DXD0E
+0 1 4266094594868322363 64 0 0
+/.well-known/acme-challenge/8SSPAZCP1SVLMN1XJU6ZK5YN7O9_46O5
+0 1 0 64 0 0
+/robots.txt
+0 9 0 994 0 0
+/.well-known/acme-challenge/MUQ3D2S_BB6EL9-7LRXCMZE62D6J0PP9
+0 1 0 64 0 0
+/wp-cron.php
+0 50 0 0 0 0
+/.well-known/acme-challenge/O5NF62M_011A1-CLH1JBUCVTQHE27RF_
+0 1 0 64 0 0
+/.well-known/acme-challenge/8N06URPSK4UEEFW_3WSEXZ4D079DKKAN
+0 1 0 64 0 0
+/.well-known/acme-challenge/KBPK-3MQI70YUT5GB0IA15PKNS06V30B
+0 1 0 64 0 0
+/.well-known/acme-challenge/MSJBVCJ6QOCOAGG5Q_0948V72PTG4V7N
+0 1 5415613969072011059 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+m24086.contaboserver.net
+0 1 0 0 1 1733342514
+-
+ec2-13-48-204-98.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+157.245.0.54
+0 1 0 0 1 1733307109
+-
+outbound2m.letsencrypt.org
+0 1 1 87 0 0
+-
+fwdproxy-ftw-006.fbsv.net
+0 1 1 120 0 0
+-
+rate-limited-proxy-66-249-89-165.google.com
+0 1 0 0 1 1733197338
+-
+srv599617.hstgr.cloud
+0 96 96 3072 0 0
+-
+57.141.0.23
+0 1 0 0 1 1733367096
+-
+153.92.15.41
+0 101 0 0 0 0
+-
+117.33.163.216
+0 1 0 0 1 1733350423
+-
+google-proxy-74-125-215-6.google.com
+0 1 0 0 1 1733197337
+-
+ec2-54-241-119-85.us-west-1.compute.amazonaws.com
+0 1 0 0 1 1733237588
+-
+ec2-13-212-125-136.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+google-proxy-66-249-88-37.google.com
+0 3 0 0 1 1733197391
+-
+22.90.105.34.bc.googleusercontent.com
+0 1 0 0 1 1733385693
+-
+fwdproxy-cco-009.fbsv.net
+0 1 0 0 1 1733227985
+-
+rate-limited-proxy-66-249-89-166.google.com
+0 1 0 0 1 1733197338
+-
+ip-220-151-225-103.globalxtreme.net
+0 2 0 0 2 1733305894
+-
+164.90.188.202
+0 2 0 0 1 1733325243
+-
+192.36.109.128
+0 1 1 115 0 0
+-
+ec2-18-196-122-94.eu-central-1.compute.amazonaws.com
+0 2 1 112 1 1733226610
+-
+google-proxy-66-249-82-5.google.com
+0 1 0 0 1 1733197366
+-
+google-proxy-74-125-215-7.google.com
+0 1 0 0 1 1733197337
+-
+4867pinata-sfo3.ipfs-78
+0 1 0 0 1 1733197189
+-
+192.36.109.116
+0 1 0 0 0 0
+-
+49.51.245.241
+0 1 0 0 1 1733365317
+-
+google-proxy-66-249-82-6.google.com
+0 1 0 0 1 1733197366
+-
+ec2-13-60-248-2.eu-north-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+124-160-158-51.instances.scw.cloud
+0 3 0 0 1 1733393436
+-
+103.242.234.11
+0 1 0 1242 0 0
+-
+crawl-66-249-64-100.googlebot.com
+0 2 1 100 1 1733368932
+-
+145.223.108.232
+0 7 2 5 2 1733392475
+-
+ec2-35-90-188-178.us-west-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+106.75.169.16
+0 1 0 0 1 1733211975
+-
+72.46.96.34.bc.googleusercontent.com
+0 3 1 120 1 1733315963
+-
+ip-134-151-225-103.globalxtreme.net
+0 1 0 0 1 1733247426
+-
+product-search-83-99-151-66.geedo.com
+0 2 1 100 1 1733335316
+-
+crawl-66-249-64-101.googlebot.com
+0 1 1 97 0 0
+-
+64.227.106.114
+0 1 0 0 1 1733372103
+-
+71.18.253.205
+0 1 0 0 1 1733297417
+-
+outbound2o.letsencrypt.org
+0 1 1 87 0 0
+-
+ec2-13-251-130-77.ap-southeast-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-18-222-106-162.us-east-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+google-proxy-66-249-88-36.google.com
+0 1 0 0 1 1733197337
+-
+114.122.143.231
+0 1 0 0 1 1733242637
+-
+45.203.21.44
+0 8 0 3744 1 1733283955
+-
+372ef8a6-ca0f-4b09-9500-e176f6b34409.fr-par-2.baremetal.scw.cloud
+0 15 0 2502 3 1733276309
+-
+192.36.109.70
+0 1 0 0 1 1733312869
+-
+212.83.43.81
+0 10 4 40161 2 1733340744
+/terms-conditions/
+40.88.21.235
+0 1 0 0 1 1733294523
+-
+134.91.76.34.bc.googleusercontent.com
+0 3 1 83899 0 0
+-
+unn-149-88-22-77.datapacket.com
+0 4 0 0 2 1733311006
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+fwdproxy-ftw-006.fbsv.net
+0 1 1 120 0 0
+-
+srv599617.hstgr.cloud
+0 27 27 384 0 0
+-
+57.141.0.23
+0 1 0 0 1 1733367096
+-
+153.92.15.41
+0 101 0 0 0 0
+-
+22.90.105.34.bc.googleusercontent.com
+0 1 0 0 1 1733385693
+-
+49.51.245.241
+0 1 0 0 1 1733365317
+-
+124-160-158-51.instances.scw.cloud
+0 3 0 0 1 1733393436
+-
+crawl-66-249-64-100.googlebot.com
+0 2 1 100 1 1733368932
+-
+145.223.108.232
+0 7 2 5 2 1733392475
+-
+64.227.106.114
+0 1 0 0 1 1733372103
+-
+134.91.76.34.bc.googleusercontent.com
+0 3 1 83899 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://ayrwater.com/media/system/js/core.js
+0 1
+https://l.instagram.com/
+0 2
+- (Direct Request)
+0 294
+http://www.ayrwater.com/
+0 1
+http://ayrwater.com/robots.txt
+0 1
+http://ayrwater.com/ads.txt
+0 1
+https://www.vaidicvidyakendra.com.davchennai.org
+0 1
+# End Of Table - referrers
+# -agents- 
+Google-Adwords-DisplayAds
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Mozilla/5.0, Google-AdWords-Express) Chrome/131.0.6778.69 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22A3370 Instagram 35
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 1
+WordPress/6.7.1; http://ayrwater.com
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+WhatsApp/2.2445.7 W
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B91 Instagram 359.
+0 1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; fr) AppleWebKit/417.9 (KHTML, like Gecko) Safari/417.8
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 3
+Go-http-client/1.1
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3; en-ca) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.1 Safari/525.20
+0 1
+php-requests/2.0.11
+0 1
+WordPress/6.6.2; https://www.ayrwater.com
+0 5
+DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google-AdWords-Express) Chrome/131.0.6778.69 Safari/53
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GeedoProductSearch; +http://www.geedo.com/product-search.html)
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.8810.3391 Safari/537.36 Edge/18.14383
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15
+0 1
+Cpanel-HTTP-Client/1.0
+0 48
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 2
+ds9 ds9 2.001.6(+https://data.dss.sps.copyright.com/docs/user_agent.html)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P; AdsBot-Google; +http://www.google.com/bot.html) AppleWebKit/537.36 
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.1
+0 1
+WordPress/6.7.1; https://www.ayrwater.com
+0 43
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.69 Mobile 
+0 1
+ds9 ds9 2.001.6
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; AdsBot-Google; +http://www.google.com/bot.html) Chrome
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.43 Safari/530.5
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; tr; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)
+0 1
+Opera/6.04 (Windows 2000; U)  [en]
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 64
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 5
+Mozilla/5.0 (en-us) AppleWebKit/537.36(KHTML, like Gecko; Google-Adwords-DisplayAds-WebRender;) Chrome/131.0.6778.69Safari/53
+0 1
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+0 1
+Python-urllib/3.8
+0 2
+curl/7.81.0
+0 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.204.0 Safari/532.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P; Google-AdWords-Express) AppleWebKit/537.36 (KHTML, like Gecko) Chro
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P; Google-AdWords-Express) AppleWebKit/[WEBKIT_VERSION] (KHTML, like G
+0 2
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.0.2) Gecko/2008092318 Fedora/3.0.2-1.fc9 Firefox/3.0.2
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.3
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

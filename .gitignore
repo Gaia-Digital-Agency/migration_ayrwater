@@ -1,0 +1,29 @@
+# IF SMALL OPEN THIS UP
+# Uploads (optional - remove this line if you want to include uploads)
+# wp-content/uploads/
+
+# DB RELATED
+
+# Config (contains server-specific DB credentials)
+# wp-config.php
+
+# Database dumps
+# *.sql
+# *.sql.gz
+
+# BELOW ALL OKAY
+
+# Cache and temp files
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/wflogs/
+
+# Logs
+*.log
+error_log
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db

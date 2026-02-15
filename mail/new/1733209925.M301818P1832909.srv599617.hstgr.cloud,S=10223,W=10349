@@ -1,0 +1,126 @@
+Return-Path: <>
+Delivered-To: ayrwater@srv599617.hstgr.cloud
+Received: from srv599617.hstgr.cloud
+	by srv599617.hstgr.cloud with LMTP
+	id kAeAEEWvTmfN9xsAkGM4eA
+	(envelope-from <>)
+	for <ayrwater@srv599617.hstgr.cloud>; Tue, 03 Dec 2024 15:12:05 +0800
+Return-path: <>
+Envelope-to: ayrwater@srv599617.hstgr.cloud
+Delivery-date: Tue, 03 Dec 2024 15:12:05 +0800
+Received: from mailnull by srv599617.hstgr.cloud with local (Exim 4.98)
+	id 1tIN4n-00000007gyA-0vHG
+	for ayrwater@srv599617.hstgr.cloud;
+	Tue, 03 Dec 2024 15:12:05 +0800
+X-Failed-Recipients: inquiries@ayrwater.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv599617.hstgr.cloud>
+To: ayrwater@srv599617.hstgr.cloud
+References: <rTvPjtf8E8eaPKzfF8MJpHNA24eyEI0p1Ul26s@www.ayrwater.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733209925-eximdsn-433489567
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tIN4n-00000007gyA-0vHG@srv599617.hstgr.cloud>
+Date: Tue, 03 Dec 2024 15:12:05 +0800
+
+--1733209925-eximdsn-433489567
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  inquiries@ayrwater.com
+    host smtp.google.com [142.251.12.26]
+    SMTP error from remote mail server after RCPT TO:<inquiries@ayrwater.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. For more information, go to
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-72541772c9asi13592900b3a.82 - gsmtp
+
+--1733209925-eximdsn-433489567
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; srv599617.hstgr.cloud
+
+Action: failed
+Final-Recipient: rfc822;inquiries@ayrwater.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. For more information, go to
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-72541772c9asi13592900b3a.82 - gsmtp
+
+--1733209925-eximdsn-433489567
+Content-type: message/rfc822
+
+Return-path: <ayrwater@srv599617.hstgr.cloud>
+Received: from ayrwater by srv599617.hstgr.cloud with local (Exim 4.98)
+	(envelope-from <ayrwater@srv599617.hstgr.cloud>)
+	id 1tIN4l-00000007gxt-1hjS
+	for inquiries@ayrwater.com;
+	Tue, 03 Dec 2024 15:12:03 +0800
+To: inquiries@ayrwater.com
+Subject: [test test] New Form Submission
+X-PHP-Script: www.ayrwater.com/wp-admin/admin-ajax.php for 103.225.151.134
+ X-PHP-Originating-Script: 1028:PHPMailer.php
+Date: Tue, 3 Dec 2024 07:12:03 +0000
+From: WordPress <wordpress@ayrwater.com>
+Message-ID: <rTvPjtf8E8eaPKzfF8MJpHNA24eyEI0p1Ul26s@www.ayrwater.com>
+X-Mailer: PHPMailer 6.9.2 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html dir="ltr" style="-webkit-text-size-adjust: none;">
+    <head style="-webkit-text-size-adjust: none;">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" style="-webkit-text-size-adjust: none;">
+        <meta name="x-apple-disable-message-reformatting" style="-webkit-text-size-adjust: none;">
+        <title style="-webkit-text-size-adjust: none;">Ayrwater</title>
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: 100%; background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; width: 100%;">
+        <div id="wrapper" dir="ltr" style="margin: 0; background-color: #f6f6f6; padding: 40px 0 0 0; width: 100%; -webkit-text-size-adjust: none;">
+            <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style="-webkit-text-size-adjust: none;">
+                <tr style="-webkit-text-size-adjust: none;"><td align="center" valign="top" style="-webkit-text-size-adjust: none;">
+                        <div id="template_header_image" style="-webkit-text-size-adjust: none;">
+                                                    </div>
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="-webkit-text-size-adjust: none; background-color: #ffffff; border: 1px solid #eee; margin-bottom: 25px;">
+                                                        <tr style="-webkit-text-size-adjust: none;"><td align="center" valign="top" style="-webkit-text-size-adjust: none;"><table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body" style="-webkit-text-size-adjust: none;"><tr style="-webkit-text-size-adjust: none;"><td valign="top" id="body_content" style="-webkit-text-size-adjust: none; background-color: #ffffff;"><table border="0" cellpadding="20" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none;"><tr style="-webkit-text-size-adjust: none;"><td valign="top" style="-webkit-text-size-adjust: none; padding: 20px 20px;"><div id="body_content_inner" style='-webkit-text-size-adjust: none; color: #555555; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 170%; text-align: left;'>
+<p style="-webkit-text-size-adjust: none; margin: 0 0 20px;"></p>
+<table class="ff_all_data" width="600" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: none;"><tbody style="-webkit-text-size-adjust: none;">
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Name</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">test test</td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Email</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">test@only.com</td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Company</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">test</td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Phone</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">81284</td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Message</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;"><span style="-webkit-text-size-adjust: none; white-space: pre-line;">test</span></td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">How Did You Find Us</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">Social Media</td></tr>
+<tr class="field-label" style="-webkit-text-size-adjust: none;"><th style="-webkit-text-size-adjust: none; padding: 6px 12px; background-color: #f8f8f8; text-align: left;"><strong style="-webkit-text-size-adjust: none;">Terms and Conditions</strong></th></tr>
+<tr class="field-value" style="-webkit-text-size-adjust: none;"><td style="-webkit-text-size-adjust: none; padding: 6px 12px 12px 12px; white-space: pre-line;">Accepted</td></tr>
+</tbody></table>
+<p style="-webkit-text-size-adjust: none; margin: 0 0 20px;">This form submitted at: https://www.ayrwater.com/contact/</p>
+</div></td></tr></table></td></tr></table></td></tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer" style="-webkit-text-size-adjust: none;"><tr style="-webkit-text-size-adjust: none;"><td valign="top" style="-webkit-text-size-adjust: none; padding: 0;"><table border="0" cellpadding="10" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none;"><tr style="-webkit-text-size-adjust: none;"><td class="fluent_credit" colspan="2" valign="middle" id="credit" style="-webkit-text-size-adjust: none; padding: 0 48px 48px 48px; border: 0; color: #999; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+<span style="-webkit-text-size-adjust: none;">© Ayrwater. Powered by <a href="https://wordpress.org/plugins/fluentform/" style="-webkit-text-size-adjust: none; color: #444444; font-weight: normal; text-decoration: none;">FluentForm</a>.</span>
+</td></tr></table></td></tr></table>
+</td></tr>
+</table>
+</div>
+<style type="text/css">@media screen and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+*{font-size:28px;}
+*{line-height:1.3em;}
+}</style>
+</body>
+</html>
+
+
+--1733209925-eximdsn-433489567--

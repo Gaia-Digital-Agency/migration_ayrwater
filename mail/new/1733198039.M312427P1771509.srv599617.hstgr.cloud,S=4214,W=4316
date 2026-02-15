@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: ayrwater@srv599617.hstgr.cloud
+Received: from srv599617.hstgr.cloud
+	by srv599617.hstgr.cloud with LMTP
+	id uErIEdeATmf1BxsAkGM4eA
+	(envelope-from <>)
+	for <ayrwater@srv599617.hstgr.cloud>; Tue, 03 Dec 2024 11:53:59 +0800
+Return-path: <>
+Envelope-to: ayrwater@srv599617.hstgr.cloud
+Delivery-date: Tue, 03 Dec 2024 11:53:59 +0800
+Received: from mailnull by srv599617.hstgr.cloud with local (Exim 4.98)
+	id 1tIJz5-00000007QuE-0zQj
+	for ayrwater@srv599617.hstgr.cloud;
+	Tue, 03 Dec 2024 11:53:59 +0800
+X-Failed-Recipients: revaathallah86@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@srv599617.hstgr.cloud>
+To: ayrwater@srv599617.hstgr.cloud
+References: <TYadxm2LfsXhL5DI0COm9x17Bs5Twl61B1EiFVFWIY@www.ayrwater.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733198039-eximdsn-507257595
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tIJz5-00000007QuE-0zQj@srv599617.hstgr.cloud>
+Date: Tue, 03 Dec 2024 11:53:59 +0800
+
+--1733198039-eximdsn-507257595
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  revaathallah86@gmail.com
+    host gmail-smtp-in.l.google.com [172.253.118.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+    550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+    550-5.7.26
+    550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass
+    550-5.7.26  SPF [srv599617.hstgr.cloud] with ip:
+    [88.222.245.253] = did not pass
+    550-5.7.26
+    550-5.7.26  For instructions on setting up authentication, go to
+    550 5.7.26  https://support.google.com/mail/answer/81126#authentication 41be03b00d2f7-7fc9c360459si12108382a12.582 - gsmtp
+
+--1733198039-eximdsn-507257595
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; srv599617.hstgr.cloud
+
+Action: failed
+Final-Recipient: rfc822;revaathallah86@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+ 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+ 550-5.7.26
+ 550-5.7.26  Authentication results:
+ 550-5.7.26  DKIM = did not pass
+ 550-5.7.26  SPF [srv599617.hstgr.cloud] with ip: [88.222.245.253] = did not pass
+ 550-5.7.26
+ 550-5.7.26  For instructions on setting up authentication, go to
+ 550 5.7.26  https://support.google.com/mail/answer/81126#authentication 41be03b00d2f7-7fc9c360459si12108382a12.582 - gsmtp
+
+--1733198039-eximdsn-507257595
+Content-type: message/rfc822
+
+Return-path: <ayrwater@srv599617.hstgr.cloud>
+Received: from ayrwater by srv599617.hstgr.cloud with local (Exim 4.98)
+	(envelope-from <ayrwater@srv599617.hstgr.cloud>)
+	id 1tIJz2-00000007Qu2-3pNn
+	for revaathallah86@gmail.com;
+	Tue, 03 Dec 2024 11:53:56 +0800
+To: revaathallah86@gmail.com
+Subject: =?us-ascii?Q?[Ayrwater]_Your_site_has_updated_to_WordPress_6?=
+ =?us-ascii?Q?.7.1?=
+X-PHP-Script: www.ayrwater.com/wp-cron.php for 88.222.245.253
+ X-PHP-Originating-Script: 1028:PHPMailer.php
+Date: Tue, 3 Dec 2024 03:53:56 +0000
+From: WordPress <wordpress@ayrwater.com>
+Message-ID: <TYadxm2LfsXhL5DI0COm9x17Bs5Twl61B1EiFVFWIY@www.ayrwater.com>
+X-Mailer: PHPMailer 6.9.2 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at https://www.ayrwater.com has been updated automatically to WordPress 6.7.1.
+
+No further action is needed on your part. For more on version 6.7.1, see the About WordPress screen:
+https://www.ayrwater.com/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+You also have some plugins or themes with updates available. Update them now:
+https://www.ayrwater.com/wp-admin/
+
+The WordPress Team
+
+
+--1733198039-eximdsn-507257595--

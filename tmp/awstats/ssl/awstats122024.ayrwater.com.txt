@@ -1,0 +1,611 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202412 will be lost/reset.
+# Last config file used to build this data file was /home/ayrwater/tmp/awstats/ssl/awstats.ayrwater.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2684                
+POS_VISITOR 11491               
+POS_DAY 14717               
+POS_DOMAIN 3534                
+POS_LOGIN 4024                
+POS_ROBOT 4179                
+POS_WORMS 4944                
+POS_EMAILSENDER 5075                
+POS_EMAILRECEIVER 5218                
+POS_SESSION 14894               
+POS_SIDER 15101               
+POS_FILETYPES 5353                
+POS_DOWNLOADS 5690                
+POS_OS 5822                
+POS_BROWSER 6170                
+POS_SCREENSIZE 7171                
+POS_UNKNOWNREFERER 7245                
+POS_UNKNOWNREFERERBROWSER 8395                
+POS_ORIGIN 8926                
+POS_SEREFERRALS 9068                
+POS_PAGEREFS 9231                
+POS_SEARCHWORDS 9779                
+POS_KEYWORDS 9931                
+POS_MISC 2348                
+POS_ERRORS 9990                
+POS_CLUSTER 3880                
+POS_SIDER_404 10143               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250101234740 1 0 3825498631680
+FirstTime 20241202190211
+LastTime 20241205103105
+LastUpdate 20250102201550 1 0 0 0 0
+TotalVisits 123                 
+TotalUnique 73                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 79                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 42 332528 21 21 0
+1 53 72 4976113 39 41 116132
+2 36 46 785926 21 22 69950
+3 54 191 34762497 42 110 22014673
+4 2 3 21156 2 2 27395
+5 2 2 0 3 14 531533
+6 8 8 35818 6 28 744674
+7 20 34 2606571 9 17 379406
+8 72 161 24984382 44 49 1917018
+9 38 262 60651771 24 31 2217732
+10 70 329 60508291 31 41 1449229
+11 336 1038 88962149 60 66 2882350
+12 22 107 23142576 12 27 8702833
+13 218 503 11932238 66 67 222619
+14 402 632 25278859 72 76 696690
+15 397 692 35292845 40 45 31238
+16 474 930 36277812 86 96 622593
+17 225 891 115618208 106 117 1037236
+18 39 91 10403740 25 30 0
+19 132 457 65682459 65 65 14928
+20 47 79 971428 29 29 14728
+21 289 779 122866997 222 267 13675623
+22 59 87 5525496 40 42 119776
+23 28 38 251583 29 30 146631
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+id 2206 5875 538393138
+lt 611 611 15438
+us 97 340 62378966
+nl 60 304 67103871
+in 28 40 1234806
+de 17 17 319170
+ru 10 65 16472948
+gb 8 64 10785936
+cn 4 14 2503626
+se 3 13 3660214
+dk 2 52 9834269
+ca 2 2 34997
+au 2 40 9703894
+vn 1 1 17729
+fr 1 1 20476
+lv 1 1 17744
+ie 1 34 9374221
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bingbot/ 179 16391577 20241205054502 2
+bot[\s_+:,\.\;\/\\-] 67 18190840 20241204102211 2
+Googlebot/ 30 1068795 20241205032213 2
+Googlebot\-Image/ 26 8459932 20241204113909 0
+YandexBot/ 24 204869 20241204231148 4
+facebookexternalhit/ 18 8703073 20241205035832 2
+YandexImages/ 7 1108359 20241204140326 0
+yandex 5 322455 20241203175156 0
+curl 3 273406 20241226053151 0
+no_user_agent 3 260049 20241202212101 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 66491 20241204193211 0
+Go\-http\-client/ 2 40954 20241204073018 0
+unknown 2 227 20241204014619 2
+crawl 1 120 20241204053100 1
+CFNetwork 1 5072 20241203173726 0
+AhrefsBot/ 1 97 20241203103905 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+jpg 959 490211705 0 0
+avif 1 15265 0 0
+php 1602 10017031 0 0
+ttf 3 50856 0 0
+Unknown 493 767297 0 0
+css 356 2806138 0 0
+gif 8 60918 0 0
+png 1166 172879161 0 0
+html 949 14985716 0 0
+js 1816 39367755 0 0
+svg 55 295631 0 0
+webp 56 277066 0 0
+txt 4 5584 0 0
+woff 6 131320 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+//wp-includes/ID3/license.txt 4 0 5584
+/9124a7e7d45b4d7db688fc073aa10b5b.txt 1 0 32
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+win10 4609 1866
+winunknown 1 1
+macosx 1 1
+ios_iphone 377 25
+android10 908 337
+macosx11 1 1
+macintosh 1 1
+unix 1 1
+winnt 1 1
+macosx5 1 1
+macosx15 583 56
+winxp 2 2
+androidmarshmallow 97 29
+win7 15 5
+androidnougat 15 3
+Unknown 815 712
+linuxubuntu 1 1
+win8.1 1 1
+win2000 1 1
+linux 43 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+Unknown 760 704
+chrome125.0.0.0 43 2
+chrome93.0.4577.63 3 3
+edge17 1 1
+netscape5.0 2 2
+chrome49.0.2623.112 12 2
+opera10.5 1 1
+safari13.0.3 2 2
+opera9.20 1 1
+safari18.0.1 34 1
+iphone 66 3
+safari1.2.4 1 1
+chrome 2 2
+chrome95.0.4638.69 59 55
+opera9.22 1 1
+chrome109.0.0.0 1 1
+chrome119.0.0.0 1 1
+safari18.1.1 252 20
+chrome129.0.0.0 6 3
+firefox133.0 128 18
+firefox115 1 1
+chrome122.0.0.0 66 11
+safari16.6 11 4
+msie5.0 1 1
+chrome58.0.3029.110 1 1
+msie5.17 1 1
+firefox132.0 1 1
+chrome120.0.0.0 1 1
+chrome59.0.3071.125 15 3
+chrome131.0.0.0 5693 2164
+chrome87.0.4280.66 1 1
+opera10.00 2 2
+safari17.5 77 2
+chrome79.0.3945.88 1 1
+firefox124.0 34 1
+chrome110.0.0.0 2 2
+chrome131.0.6778.69 121 12
+chrome51.0.2704.103 1 1
+mozilla 3 3
+msie4.0 1 1
+chrome4.0.204.0 1 1
+chrome124.0.0.0 18 3
+chrome130.0.0.0 1 1
+chrome114.0.0.0 1 1
+opera6.04 1 1
+edge18 3 3
+firefox126.0 1 1
+chrome121.0.0.0 1 1
+safari5.0.4 1 1
+safari17.3.1 34 1
+firefox60.0 1 1
+chrome61.0.3163.100 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20241204220401
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/131.0.6778.69_Safari/537.36 20241203034222
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GeedoProductSearch;__http://www.geedo.com/product-search.html)_Chrome/79.0.3945.88_Safari/537.36 20241204180157
+Opera/9.80_(S60;_SymbOS;_Opera_Tablet/9174;_U;_en)_Presto/2.7.81_Version/10.5 20241204193219
+node 20241205074322
+WordPress/6.7.1;_https://www.ayrwater.com 20241205102858
+WordPress/6.7.1;_https://ayrwater.com 20241205101207
+WhatsApp/2.2445.7_W 20241205012615
+ds9_ds9_2.001.6(_https://data.dss.sps.copyright.com/docs/user_agent.html) 20241204014620
+Mozilla/5.0_(en-us)_AppleWebKit/537.36(KHTML,_like_Gecko;_Google-Adwords-DisplayAds-WebRender;)_Chrome/131.0.6778.69Safari/537.36 20241203034248
+WhatsApp/2.23.20.0 20241204145857
+Google-Adwords-DisplayAds 20241203034258
+WordPress/6.6.2;_https://www.ayrwater.com 20241203115349
+WP-URLDetails/6.7.1_(_https://www.ayrwater.com) 20241203135029
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+Google-Adwords-DisplayAds 20241203034258
+WordPress/6.6.2;_https://www.ayrwater.com 20241203115349
+WP-URLDetails/6.7.1_(_https://www.ayrwater.com) 20241203135029
+WordPress/6.7.1;_https://www.ayrwater.com 20241205102858
+node 20241205074322
+WhatsApp/2.23.20.0 20241204145857
+ds9_ds9_2.001.6(_https://data.dss.sps.copyright.com/docs/user_agent.html) 20241204014620
+WhatsApp/2.2445.7_W 20241205012615
+WordPress/6.7.1;_https://ayrwater.com 20241205101207
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 927 1174
+From1 0 0
+From2 2 2
+From3 8 16
+From4 2117 6282
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+https://hpanel.hostinger.com 4 4
+https://l.instagram.com 2 2
+https://figurestory3d.onelink.me 1 1
+https://www.vaidicvidyakendra.com.davchennai.org 1 1
+https://www.abdhisham.biz 0 1
+https://kursy.lerta.pl 0 1
+https://www.waddencruises.nl 0 1
+https://mtw.co.id 0 1
+https://www.pozicky-uver.sk 0 1
+https://jack.mydns.jp 0 1
+https://mail.r2w.email 0 1
+https://www.fsin-live.motivo-1.enrisezwolle.nl 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 790 1251
+303 1 0
+403 4 4968
+301 122 3180
+206 8 2529257
+400 3 15
+302 26 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/faq/center 39 https://www.ayrwater.com/faq/
+/ads.txt 2 -
+/ayr-story/center 42 https://www.ayrwater.com/ayr-story/
+/privacy-policy 2 -
+/wp-access 1 -
+/hotels/center 18 https://www.ayrwater.com/hotels/
+/.DS_Store 1 -
+/app-ads.txt 1 -
+/privacy-policies/center 25 https://www.ayrwater.com/privacy-policies/
+/sustainability/center 41 https://www.ayrwater.com/sustainability/
+/explore-our-products/center 78 https://www.ayrwater.com/explore-our-products/
+/.well-known/security.txt 1 -
+/sellers.json 1 -
+/hospitality-solutions/center 76 https://www.ayrwater.com/hospitality-solutions/
+/portfolio/categories 1 -
+/restaurant/center 16 https://www.ayrwater.com/restaurant/
+/news/center 42 -
+/center 290 https://www.ayrwater.com/
+/portfolio/categories/ayr-water-dispensers 1 -
+/contact/center 43 https://www.ayrwater.com/contact/
+/wp-admin/center 39 https://www.ayrwater.com/wp-admin/post.php
+/.well-known/traffic-advice 2 -
+/test/ 1 https://www.ayrwater.com/wp-admin/post.php
+/terms-conditions/center 27 https://www.ayrwater.com/terms-conditions/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 79
+103.225.151.134 1587 4091 278439850 20241205103105
+88.222.245.253 611 611 15438 20241205102906
+182.0.100.185 292 671 78230766 20241203210144
+114.122.143.231 207 398 36781467 20241204023757
+149.88.22.77 55 59 29801 20241204111649
+182.0.226.99 50 154 21311971 20241205085100
+31.151.131.70 35 246 57726816 20241203174357
+114.122.132.228 25 35 594079 20241205012717
+145.223.108.232 24 24 0 20241205102903
+45.144.196.25 23 35 1147340 20241203173907
+180.252.174.228 18 128 26109446 20241202220128
+212.83.43.81 15 15 278216 20241204193222
+114.122.164.12 9 107 23975066 20241203112559
+193.187.130.109 9 60 16188239 20241202212308
+182.0.225.11 7 12 462181 20241204081711
+103.225.151.220 5 133 37829104 20241204095659
+136.226.229.79 4 70 18846438 20241203164057
+66.249.88.32 4 9 379876 20241203034312
+51.159.103.22 3 18 1029423 20241204013829
+66.249.64.107 3 3 44856 20241204080901
+66.249.64.109 3 3 49748 20241204110123
+103.149.13.164 3 3 55884 20241205025813
+51.159.158.199 2 2 35487 20241205074322
+154.47.16.57 2 2 30149 20241202224437
+137.226.113.44 2 2 40954 20241204220401
+107.173.172.139 1 1 20478 20241203173335
+31.13.127.31 0 2 18903 
+106.75.169.16 1 6 1231336 20241203074618
+54.241.119.85 1 1 15228 20241203145310
+64.233.173.235 1 5 42278 20241203084043
+66.249.82.14 1 13 4144227 20241203034246
+51.158.160.124 1 1 20476 20241205101036
+52.38.97.170 1 1 20477 20241204071909
+117.33.163.216 1 1 20477 20241204221347
+74.125.215.12 1 15 4138473 20241203034218
+49.51.245.241 1 1 20477 20241205022159
+86.48.11.53 2 52 9834269 20241205085855
+34.96.46.72 1 1 20476 20241204123924
+34.41.204.224 1 1 17497 20241202190218
+143.244.185.209 1 1 17743 20241204072400
+31.13.127.1 0 21 7733235 
+89.205.133.135 1 34 9377055 20241203182938
+66.249.82.13 1 17 3868082 20241203034246
+199.168.150.161 1 1 20477 20241204075545
+172.225.180.60 1 34 9375778 20241202211954
+62.30.55.18 1 9 319497 20241203213436
+106.75.164.149 1 6 1231336 20241203074509
+164.90.188.202 1 2 21156 20241204151405
+192.67.161.225 1 1 20478 20241205075150
+66.249.82.12 0 19 5775991 
+74.125.215.13 1 27 9119450 20241203034218
+193.187.130.106 0 4 264236 
+75.119.140.86 1 1 20478 20241204200155
+83.99.151.66 1 1 17744 20241204180157
+114.122.134.3 2 77 15867195 20241204112710
+64.227.106.114 1 2 21156 20241205041505
+66.249.88.47 0 6 319526 
+64.233.173.236 1 3 54114 20241203084043
+37.187.154.14 1 1 20476 20241204110712
+47.242.224.70 2 2 34997 20241203030241
+66.249.88.48 1 6 48887 20241203034222
+18.196.122.94 2 2 37974 20241204014620
+13.42.205.55 1 1 17495 20241203103107
+34.105.90.22 1 1 20477 20241205080134
+64.233.173.237 1 7 309157 20241203084042
+185.69.144.150 1 34 9381053 20241202192928
+27.111.84.118 2 40 9703894 20241203214659
+114.10.157.33 2 67 18752823 20241204123506
+188.143.244.133 1 1 20473 20241205081901
+192.36.109.120 1 1 20478 20241204114749
+45.144.196.81 1 1 17742 20241205024622
+103.166.8.240 1 1 13840 20241204231851
+149.113.44.201 1 1 13841 20241204231853
+31.13.127.12 1 11 1622083 20241203121459
+146.75.160.26 2 12 3639736 20241202212313
+74.125.215.1 0 22 5478242 
+164.92.92.123 1 2 18462 20241203033951
+182.0.102.153 2 2 39190 20241204030409
+171.244.43.14 1 1 17729 20241203150434
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20241202 305 1062 174461691 15
+20241203 2455 5469 393819214 47
+20241204 163 542 91977500 41
+20241205 131 401 71613038 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 6
+30mn-1h 9
+1h+ 19
+5mn-15mn 6
+15mn-30mn 6
+0s-30s 68
+2mn-5mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 116
+/wp-admin/admin-ajax.php 720 285272 1 3
+/wp-cron.php 633 0 16 16
+/ 349 6571962 86 71
+/explore-our-products/ 89 1851867 2 5
+/hospitality-solutions/ 83 1286108 3 2
+/wp-json/wp/v2/taxonomies 71 100070 0 0
+/wp-json/wp/v2/blocks 70 420 0 0
+/ayr-story/ 53 895982 2 3
+//xmlrpc.php 53 22901 2 2
+/wp-admin/post.php 50 4372353 1 0
+/contact/ 49 621319 1 5
+/sustainability/ 49 621757 2 3
+/news/ 46 546001 0 2
+/faq/ 45 599302 0 2
+/wp-admin/admin.php 43 1266762 0 0
+/wp-json/ 40 11334 0 0
+/wp-json/wp/v2/wp_pattern_category 35 210 0 0
+/wp-json/wp/v2/block-patterns/categories 35 21490 0 0
+/wp-json/wp/v2/users 35 1020 0 0
+/wp-json/wp/v2/settings 35 37940 0 0
+/wp-json/wp/v2/users/1 34 952 0 0
+/wp-admin/edit.php 30 576055 0 0
+/wp-admin/load-scripts.php 29 697919 0 0
+/privacy-policies/ 28 455018 0 1
+/terms-conditions/ 28 458958 1 0
+/wp-content/plugins/fluentform/assets/fonts/fluentformeditors.woff 1 9520 0 0
+/wp-json/fluentform/v1/settings/4/general 6 4320 0 0
+/wp-admin/options-general.php 1 30696 0 0
+/wp-admin/upgrade.php 1 5 0 0
+/wp-admin/upload.php 1 36075 0 0
+/wp-json/fluentform/v1/report/submissions 3 225 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 2 37648 0 0
+/wp-json/fluentform/v1/settings/5/general 1 720 0 0
+/wp-json/wp/v2/device 3 6586 0 0
+/wp-json/fluentform/v1/settings/4/customizer 1 6 0 0
+/wp-json/wp/v2/pages/330 4 20828 0 0
+/wp-admin/plugins.php 1 14668 0 0
+/wp-login.php 4 7377 1 1
+/wp-json/wp/v2/pages/386 1 12780 0 0
+/wp-json/fluentform/v1/managers 1 298 0 0
+/wp-json/fluentform/v1/forms/4/shortcodes 5 3817 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/fonts/Rank-Math.ttf 2 36992 0 0
+/wp-json/fluentform/v1/forms/ping 17 374 0 0
+/wp-json/wp/v2/pages/163 1 11232 0 0
+/wp-content/plugins/fluentform/assets/fonts/fluentform.woff 1 27752 0 0
+/wp-json/rankmath/v1/updateMeta 12 360 0 0
+/news/the-sustainable-choice-zero-waste-solutions-for-the-hosptality-sector/ 3 36122 0 1
+/wp-json/wp/v2/pages/8/autosaves 2 15650 0 0
+/news/blupura-triumphs-at-the-aqua-awards-2024/ 12 144696 0 0
+/wp-json/wp/v2/pages/239 3 35523 0 0
+/wp-admin/post-new.php 1 64844 0 0
+/wp-json/wp/v2/types 1 827 0 0
+/wp-json/fluentform/v1/forms/4/resources 3 21358 0 0
+/wp-json/fluentform/v1/forms/5/resources 1 7015 0 0
+/device/automatic-system/ 2 34414 0 0
+/wp-admin/themes.php 2 27615 0 0
+/wp-json/fluentform/v1/roles 1 89 0 0
+/wp-admin/customize.php 1 88195 0 0
+/wp-json/wp/v2/pages/246 1 12447 0 0
+/wp-json/fluentform/v1/global-settings 6 2654 0 0
+/news/water-is-a-natural-resource/ 12 149232 0 1
+/wp-json/fluentform/v1/logs 1 501 0 0
+/wp-json/rankmath/v1/dashboardWidget 2 1274 0 0
+/wp-json/fluentform/v1/forms/5/pages 1 345 0 0
+/wp-json/wp/v2/categories/1 1 300 0 0
+/wp-json/fluentform/v1/forms/4/duplicate 1 140 0 0
+/wp-json/fluentform/v1/settings/4 6 2855 0 0
+/wp-json/wp/v2/device/312 2 4263 0 0
+/privacy-policies/embed/ 1 6118 0 0
+/wp-admin/async-upload.php 8 4837 0 0
+/restaurant/ 16 211418 0 0
+/wp-json/fluentform/v1/forms/4/pages 7 2338 0 0
+/wp-json/wp/v2/pages/358 1 7243 0 0
+/wp-content/uploads/2024/11/hotel-icon-isolated-background-simple-flat-pictogram-business-marketing-internet-concept-trendy-modern-vector-symbol-web-site-design-mobile-app_157943-37575-300x300.avif 1 15265 0 0
+/wp-json/wp/v2/pages/266 3 7578 0 0
+/wp-admin/plugin-install.php 1 15642 0 0
+/wp-json/wp/v2/block-directory/search 8 8218 0 0
+/wp-json/wp/v2/device/ 1 2226 0 0
+/wp-json/fluentform/v1/forms/5/shortcodes 1 767 0 0
+/wp-json/fluentform/v1/forms/5/fields 1 330 0 0
+/wp-json/wp/v2/pages/275/autosaves 3 18920 0 0
+/test-asd/ 3 32143 0 0
+/wp-json/wp/v2/pages/332/autosaves 1 3912 0 0
+/wp-json/wp/v2/block-patterns/patterns 9 177053 0 0
+/wp-json/fluentform/v1/forms/3/fields 1 464 0 0
+/wp-json/fluentform/v1/settings/5 2 1078 0 0
+/wp-json/fluentform/v1/submissions/all 3 1187 0 0
+/wp-json/fluentform/v1/submissions 1 91 0 0
+/wp-json/fluentform/v1/settings/3/general 1 720 0 0
+/wp-json/wp/v2/widget-types 1 892 0 0
+/wp-content/plugins/fluentform/assets/fonts/vendor/element-ui/packages/theme-chalk/src/element-icons.woff 1 28200 0 0
+/wp-json/wp/v2/pages/777 2 4394 0 0
+/wp-json/fluentform/v1/settings/3 1 362 0 0
+//wp-json/wp/v2/users/ 2 1316 0 0
+/wp-json/wp/v2/pages/349 4 23638 0 0
+/wp-json/wp/v2/pages/332 2 17824 0 0
+/wp-json/fluentform/v1/forms/3/pages 1 345 0 0
+/wp-json/wp/v2/taxonomies/category 1 895 0 0
+/wp-json/fluentform/v1/forms/4/fields 5 1646 0 0
+/wp-json/wp/v2/pages/ 7 15575 0 0
+/wp-admin/ 8 176064 0 0
+/wp-content/plugins/fluentform/assets/fonts/fluentform.ttf 1 13864 0 0
+/hotels/ 23 256784 5 5
+/wp-json/fluentform/v1/forms/3/shortcodes 1 762 0 0
+/wp-json/fluentform/v1/forms 8 4449 0 0
+/wp-json/oembed/1.0/proxy 1 1003 0 0
+/wp-json/wp/v2/taxonomies/post_tag 1 859 0 0
+/wp-admin/load-styles.php 23 2505815 0 0
+/wp-json/wp/v2/pages/275 4 31260 0 0
+/wp-json/wp/v2/pages/204 5 46278 0 0
+/wp-json/wp/v2/pages/8 6 68400 0 0
+/wp-content/plugins/fluentform/assets/fonts/element-icons.woff 1 28200 0 0
+/wp-json/fluentform/v1/logs/filters 1 140 0 0
+/wp-json/wp-block-editor/v1/url-details 3 300 0 0
+/wp-json/fluentform/v1/submissions/resources 1 186 0 0
+/wp-json/wp/v2/device/648 1 4876 0 0
+END_SIDER
